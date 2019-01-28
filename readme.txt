@@ -3,3 +3,4 @@ Git is free software distrubuted under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 hahaha
+add function NO.01
